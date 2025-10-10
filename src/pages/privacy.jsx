@@ -48,18 +48,51 @@ const PrivacyPage = () => (
           and performance. It is not used for tracking or profiling visitors.
         </p>
         
-        <h2>Open Source and GitHub</h2>
+        <h2>Open Source and Development Platforms</h2>
         <p>
-          Video.js is hosted on GitHub, and our documentation may link to GitHub repositories 
-          and issues. When you interact with GitHub (such as submitting issues or pull requests), 
-          you are subject to <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement" 
-          rel="noopener noreferrer">GitHub's Privacy Policy</a>.
+          Video.js is an open source project hosted on external development platforms. Our 
+          documentation may link to code repositories, issue trackers, and other development 
+          resources. When you interact with these platforms (such as submitting issues, viewing 
+          code, or participating in discussions), you are subject to their respective privacy 
+          policies and terms of service.
+        </p>
+        
+        <h2>Third-Party Content and Services</h2>
+        <p>
+          Our website may include content from third-party services, including but not limited to:
+        </p>
+        <ul>
+          <li>Embedded videos and media players</li>
+          <li>Code repositories and development platforms</li>
+          <li>External documentation and resources</li>
+          <li>Interactive demos and examples</li>
+        </ul>
+        <p>
+          These third-party services may:
+        </p>
+        <ul>
+          <li>Set their own cookies and tracking technologies</li>
+          <li>Collect information about your interaction with their content</li>
+          <li>Be governed by their own privacy policies and terms of service</li>
+          <li>Process data according to their own data handling practices</li>
+        </ul>
+        <p>
+          We do not control these third-party services or their data practices. When you interact 
+          with third-party content, you are subject to their respective privacy policies.
         </p>
         
         <h2>Cookies</h2>
         <p>
-          This website does not set any tracking cookies. Any cookies that may be present are 
-          strictly functional and necessary for the website to operate properly.
+          This website does not set first-party tracking cookies. However, cookies may be set by:
+        </p>
+        <ul>
+          <li><strong>Third-party services:</strong> When you interact with embedded content or external links</li>
+          <li><strong>Functional cookies:</strong> Strictly necessary for website operation</li>
+          <li><strong>Development platforms:</strong> When accessing linked code repositories or development tools</li>
+        </ul>
+        <p>
+          We recommend reviewing the privacy policies of any third-party services you interact 
+          with through our website.
         </p>
         
         <h2>Children's Privacy</h2>
@@ -82,17 +115,15 @@ const PrivacyPage = () => (
         
         <h2>Contact</h2>
         <p>
-          If you have questions about this privacy policy, please:
+          If you have questions about this privacy policy, please contact us through our 
+          official community channels or development platforms. Links to these resources 
+          can be found throughout our website and documentation.
         </p>
-        <ul>
-          <li>Open an issue on our <a href="https://github.com/videojs/videojs.com" rel="noopener noreferrer">GitHub repository</a></li>
-        </ul>
-        
         <h2>Open Source Commitment</h2>
         <p>
-          Video.js is committed to transparency and user privacy. Our website source code is 
-          available at <a href="https://github.com/videojs/videojs.com" rel="noopener noreferrer">
-          github.com/videojs/videojs.com</a>, allowing you to verify our privacy practices.
+          Video.js is committed to transparency and user privacy. As an open source project, 
+          our website source code is publicly available, allowing you to verify our privacy 
+          practices and the technical implementation of this policy.
         </p>
       </div>
     </Container>
